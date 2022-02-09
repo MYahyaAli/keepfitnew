@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757543393861",
+    "project_id": "keepfitflutter",
+    "storage_bucket": "keepfitflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757543393861:android:406ac9f5a3764fc8a7612c",
+        "android_client_info": {
+          "package_name": "com.example.keepfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757543393861-fmkjq5tu2fsu4k910hjs9msf4r7rvlpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3w1Pjstzt-xl2kv0Y64BXDQpOou7QEWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757543393861-fmkjq5tu2fsu4k910hjs9msf4r7rvlpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
